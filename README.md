@@ -1,3 +1,3 @@
 物理竞赛命题样例：YPhO公开免费模考试题
 
-许可协议：CC BY-NC-SA 4.0（署名-非商业性使用-相同方式共享 4.0 协议）
+许可协议：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（[署名-非商业性使用-相同方式共享 4.0 协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)）
